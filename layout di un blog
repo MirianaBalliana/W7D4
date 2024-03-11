@@ -12,8 +12,9 @@
             <img src="assets/img/logo.svg" alt="Logo" width="360px">
         </div>
         <nav>
-            <p><span> Home </span> - <span> Articoli </span> - <span> <a href="#"> Job </a> </span></p>
+            <p><span> <a href="#"> Home </a></span> - <span><a href="#"> Articoli </a> </span> - <span> <a href="#"> Job </a> </span></p>
         </nav>
+        <hr>
     </header>
     <main>
         <article>
@@ -31,6 +32,7 @@
                     <li> Contenuti di fine pagina comuni, da inserire nel nel tag <code>&lt;footer&gt;</code></li>
                     <li> Formattazione del codice</li>
                 </ul>
+                <h2>Formattazione del codice</h2>
                 <p> il testo dell'articolo dovrà essere formattato per identificare le parti da selezionare con i CSS.
                     Perciò i passi saranno: </p>
                 <ul>
@@ -107,17 +109,17 @@
         <h2><strong></strong> Articoli correlati </strong></h2>
         <div id="Contenitore Articoli">
            <div class= "articolo" >
-            <h3>Validare il codice HTML</h3>
+            <h3> <a href="#">Validare il codice HTML</a></h3>
             <p> <strong> Categoria:</strong> Develop</p>
             <p> <strong> Data:</strong> 18-9-2020</p>
         </div> 
              <div class= "articolo" >
-             <h3>Correggere la sintassi</h3>
+             <h3> <a href="#">Correggere la sintassi </a> </h3>
              <p> <strong> Categoria:</strong> Develop</p>
              <p> <strong> Data:</strong> 30-9-2020</p>
          </div> 
             <div class= "articolo" >
-             <h3>Meno Kb nella pagina</h3>
+             <h3><a href="#">Meno Kb nella pagina </a></h3>
              <p> <strong> Categoria:</strong> Ottimizzazione</p>
              <p> <strong> Data:</strong> 30-9-2020</p>
          </div> 
